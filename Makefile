@@ -1,0 +1,1 @@
+# FastAPI Boilerplate Pro — v0.1 (минимально‑достаточный каркас)
